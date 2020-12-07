@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: dbfd1fd640921064fbed1149c1f9966e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - PixelMaster
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e86ab9369f62fa943aa58328298d96c3, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
